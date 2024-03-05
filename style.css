@@ -1,6 +1,6 @@
 /* CSS for navigation bar */
 nav {
-    background-color: #42b31d;
+    background-color: #13530c;
     overflow: hidden;
 }
 
@@ -140,7 +140,68 @@ ul.items li a:hover {
     color: #666;
 }
 
-/* Footer styles */
+/* Contact Us CSS */
+.container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            /* height: 100vh; */
+            margin: 0;
+}
+ 
+.form-group textarea {
+    width: 100%; /* Take up the full width of its container */
+    padding: 10px; /* Add equal padding to all sides */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+    margin-top: 10px; /* Add margin to the top */
+    margin-bottom: 10px; /* Add margin to the bottom */
+}
+
+
+.contact-form {
+    width: 100px; /* Adjust form width as needed */
+}
+
+.form-group {
+    margin-bottom: 15px; /* Adjust spacing between form elements */
+    /* margin-top: 10px; */
+    /* justify-content:center; Equally distribute elements */
+}
+
+/* Style headings and labels */
+/* #contact-heading {
+    text-align: center;
+    margin-bottom: 200px;
+} */
+
+label {
+    display: inline;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #13530c;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease; /* Adding transition effect */
+    border-radius: 8px;
+}
+
+button[type="submit"]:hover {
+    background-color: #0cac4e;
+    transform: scale(1.02); /* Adding scale effect on hover */
+
+}
+
+
+
+
+
+/* Footer styles CSS*/
 footer {
     background-color: #333;
     color: #fff;
@@ -163,7 +224,7 @@ footer p {
   
     .img-container {
         flex: none;
-        width: 100%;
+        width: 200%;
         height: 200px;
     }
 }
