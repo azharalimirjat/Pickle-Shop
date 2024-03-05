@@ -18,27 +18,26 @@ During the fifth semester, our group was assigned a project by Sir Zubair in sub
 - Made about.html and about.css files of website.
 - Reviewed all pull requests and merged.
 - Made other changes to the files.
+- Made README file to make others understand our work.
 
 ### M. Osama (21SW065)
 
 #### Work:
 - Created home.html and style.css files of website.
-- Any specific contribution details.
-- Sections or files worked on.
+- Made specific changes to files.
+- Helped in doing other works.
 
 ### Shahid li (21SW078)
 
 #### Work:
-- Description of the tasks performed by collaborator 3.
-- Any specific contribution details.
-- Sections or files worked on.
+- Helped in making changes.
+- Suggested changes and color combinations.
+- Worked offline to help us.
 
 ### Haseeb Ullah (21SW090)
 
 #### Work:
-- Description of the tasks performed by collaborator 4.
-- Any specific contribution details.
-- Sections or files worked on.
-[Repeat the structure for Sub-Problem 2]
+- Made contactus.html and contantus.css files.
+- Made other changes to make these pages look good.
 
 ---
