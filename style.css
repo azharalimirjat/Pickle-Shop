@@ -140,7 +140,9 @@ ul.items li a:hover {
     color: #666;
 }
 
-/* Contact Us CSS */
+
+/* Footer styles */ 
+
 .container {
             display: flex;
             flex-direction: column;
@@ -202,6 +204,7 @@ button[type="submit"]:hover {
 
 
 /* Footer styles CSS*/
+
 footer {
     background-color: #333;
     color: #fff;
